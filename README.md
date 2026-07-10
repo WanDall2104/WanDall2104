@@ -13,10 +13,10 @@ Desenvolvedor Full-Stack focado em criar soluções eficientes, escaláveis e co
 Aqui estão as stacks que mais utilizo no meu dia a dia para o desenvolvimento Full-Stack:
 
 #### Front-end
-<img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" />
+<img src="https://skillicons.dev" alt="Minhas Stacks Front-end" />
 
 #### Back-end & DevOps
-<img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" />
+<img src="https://skillicons.dev" alt="Minhas Stacks Back-end e Infra" />
 
 ---
 
