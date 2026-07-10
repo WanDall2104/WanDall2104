@@ -4,7 +4,7 @@ Desenvolvedor Full-Stack focado em criar soluções eficientes, escaláveis e co
 
 - 🚀 Atualmente desenvolvendo aplicações modernas de ponta a ponta.
 - 💼 Aberto a oportunidades de trabalho e projetos colaborativos.
-- 📬 Como me encontrar: [Seu E-mail](mailto:gwparra@gmail.com) | [Meu LinkedIn](https://linkedin.com)
+- 📬 Como me encontrar: [Meu E-mail](mailto:gwparra@gmail.com) | [Meu LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/wandallgabriel/))
 
 ---
 
@@ -12,23 +12,27 @@ Desenvolvedor Full-Stack focado em criar soluções eficientes, escaláveis e co
 
 Aqui estão as stacks que mais utilizo no meu dia a dia para o desenvolvimento Full-Stack:
 
-#### Front-end
-<img src="https://skillicons.dev" alt="Minhas Stacks Front-end" />
+#### 💻 Front-end
+* **React** / **TypeScript** / **JavaScript**
+* **HTML5** / **CSS3**
 
-#### Back-end & DevOps
-<img src="https://skillicons.dev" alt="Minhas Stacks Back-end e Infra" />
+#### ⚙️ Back-end & DevOps
+* **Node.js**
+* **Docker**
+* **Git** / **GitHub**
 
 ---
 
 ### 📊 Minhas Estatísticas
 
-<p align="center">
-  <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
-</p>
+Você pode acompanhar meus commits e repositórios diretamente pelas abas principais do meu perfil!
+
+* 📂 **[Ver meus Repositórios](https://github.com)**
+* 📈 **[Ver minha atividade de contribuições](#contribution-activity)**
 
 ---
 
 <p align="center">
   Pronto para colaborar e transformar ideias em código! 💻
 </p>
+****
