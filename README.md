@@ -13,25 +13,18 @@ Desenvolvedor Full-Stack focado em criar soluções eficientes, escaláveis e co
 Aqui estão as stacks que mais utilizo no meu dia a dia para o desenvolvimento Full-Stack:
 
 #### Front-end
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" />
 
 #### Back-end & DevOps
-![Node.js](https://shields.io)
-![Docker](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+<img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" />
 
 ---
 
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
+  <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -39,18 +32,3 @@ Aqui estão as stacks que mais utilizo no meu dia a dia para o desenvolvimento F
 <p align="center">
   Pronto para colaborar e transformar ideias em código! 💻
 </p>
-
-<!--
-**WanDall2104/WanDall2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
