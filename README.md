@@ -70,6 +70,28 @@ Desenvolvimento de landing pages modernas, responsivas e otimizadas para SEO.
 
 ---
 
+## 🌐 Daniele Brands
+
+<p align="center">
+  <a href="https://www.danielebrands.com.br/">
+    <img src="https://i.imgur.com/danibrands.png" alt="Daniele Brands" width="900"/>
+  </a>
+</p>
+
+Landing page institucional desenvolvida para a **Daniele Brands**, com foco em design moderno, performance, responsividade e otimização para SEO.
+
+### Tecnologias utilizadas
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Vercel
+
+🔗 **Site:** https://www.danielebrands.com.br/
+
+---
+
 ## 📊 Estatísticas
 
 <p align="center">
